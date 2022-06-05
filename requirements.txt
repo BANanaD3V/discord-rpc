@@ -1,0 +1,4 @@
+python-dotenv
+curses #use windows-curses on windows
+pypresence
+asyncio
