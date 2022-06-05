@@ -11,7 +11,7 @@ pip install -r requirements.txt
 cd src
 python main.py
 ```
-PS: dont forget to rename `env.example` to `env.` and change client id. You also need desktop client on PC to make this work.
+PS: dont forget to rename `.env.example` to `.env` and change client id. You also need desktop client on PC to make this work.
     
 ## Screenshots
 
